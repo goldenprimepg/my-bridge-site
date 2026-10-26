@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Resource Hub</title>
+  <link href="https://my-bridge-site.vercel.app/feed.xml" rel="self"/>
+  <link href="https://my-bridge-site.vercel.app/"/>
+  <updated>2026-10-26T00:00:00Z</updated>
+  <id>https://my-bridge-site.vercel.app/</id>
+  <author>
+    <name>Resource Hub</name>
+  </author>
+
+  <entry>
+    <title>Ways to Make Atlas Respond Quickly</title>
+    <link href="https://my-bridge-site.vercel.app/posts/https-race-car-models-proboards-com-thread-15626-ways-atlas-respond-quickly-test.html"/>
+    <id>https://my-bridge-site.vercel.app/posts/https-race-car-models-proboards-com-thread-15626-ways-atlas-respond-quickly-test.html</id>
+    <updated>2026-10-26T00:00:00Z</updated>
+    <summary>Forum thread discussing techniques for making Atlas model cars respond faster.</summary>
+  </entry>
+
+  <entry>
+    <title>From Scratch to Industry Authority</title>
+    <link href="https://my-bridge-site.vercel.app/posts/https-www-linkedin-com-pulse-from-scratch-industry-authority-tanu-singh-bwtqf.html"/>
+    <id>https://my-bridge-site.vercel.app/posts/https-www-linkedin-com-pulse-from-scratch-industry-authority-tanu-singh-bwtqf.html</id>
+    <updated>2026-10-26T00:00:00Z</updated>
+    <summary>Digital transformation playbook for startups covering automation, CRM and SEO.</summary>
+  </entry>
+</feed>
